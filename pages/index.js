@@ -10,6 +10,7 @@ export default function Home() {
             <Navbar />
             <h1>Homepage</h1>
             <p>
+                Homepage
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, tempore porro,
                 quasi libero aliquid voluptatum quaerat explicabo facilis magni omnis nobis optio
                 minima dolorum tempora dolore enim. Reprehenderit, nihil odio!
