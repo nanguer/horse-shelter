@@ -1,0 +1,8 @@
+{
+    "prettier.eslintIntegration": true,
+    "eslint.workingDirectories": [
+        "/home/nahuelg/Development/horse-shelter/.eslintrc"
+    ],
+    "prettier.requireConfig": true,
+    "editor.formatOnSave": true
+}
