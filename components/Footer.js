@@ -1,11 +1,7 @@
 import React from 'react'
 
 const Footer = () => {
-    return (
-        <div>
-            Copyright 2021 Animal shelter
-        </div>
-    )
+    return <footer>Copyright 2021 Animal shelter</footer>
 }
 
 export default Footer
